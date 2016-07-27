@@ -1,0 +1,36 @@
+*{
+	background-color: #fffccc;
+}
+span{                                 //Top of page
+	line-height: .5em;
+	float:right;
+	margin-right: 20px;
+}
+p{
+	font-size: 24px;
+}
+li {
+font-size: 24px;
+}
+hr {
+	color:#000000;
+	margin-left: 0px;
+	margin-right:10px;
+}
+li span{
+	float:right;
+	margin-right: 20px;
+}
+ol li{
+	text-decoration: underline;
+}
+ul li{
+	text-decoration: none;
+}
+ol li span{
+	text-decoration: underline;
+}
+button {
+border-style: groove;
+	background-color: red;
+}
